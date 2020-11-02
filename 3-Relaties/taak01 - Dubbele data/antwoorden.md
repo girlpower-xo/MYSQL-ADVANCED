@@ -1,9 +1,9 @@
 # Antwoorden opdracht 1
 
 Antwoord in bytes:
-
+263 bytes
 Antwoord in kilobytes:
-
+0,263 KB
 # Antwoorden opdracht 2
 
 Hoeveel scheelt het in kilobytes voor de `platform` kolom?
